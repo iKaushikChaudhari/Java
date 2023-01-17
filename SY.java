@@ -1,6 +1,6 @@
-Class SY
+class SY
 {
-public static void(String arg[])
+public static void main(String arg[])
 {
 int a=50;
 int b=60;
