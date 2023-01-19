@@ -8,6 +8,8 @@ class Employee
 	char div='B';
 public static void main(String args[])
 	{
+		//Object Creation 
+		//creating an object using new keyword 	
 		Employee e1=new Employee();
 		System.out.println("ID Of Employee Is: "+e1.eid);
 		System.out.println("Name Of Employee Is: "+e1.name);
