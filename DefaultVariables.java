@@ -1,5 +1,5 @@
-
-
+//Day03
+//Default Variables Values 
 public class DefaultVariables {
 	int a;
 	byte b;
