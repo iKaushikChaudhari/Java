@@ -1,6 +1,6 @@
 package org.mit.engg.ty;
 
-public class Test {
+public class Whileloop {
 
 	public static void main(String[] args) {
 		int a=1;
