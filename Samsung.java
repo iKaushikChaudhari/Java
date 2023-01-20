@@ -1,6 +1,6 @@
 package org.mit.engg.sy;
 
-public class Product {
+public class Samsung {
 	int pid;
 	String pName;
 	float pPrice;
@@ -13,6 +13,12 @@ public class Product {
 		System.out.println("Product ID is "+pid);
 		System.out.println("Product Name is "+pName);
 		System.out.println("Product Price is "+pPrice);
+	}
+	public static void main(String[] args) 
+	{
+		Samsung p1=new Samsung();
+		p1.getDetails(101,"Samsung",45442.55f);
+		p1.displayProductDetails();
 	}
 
 }
