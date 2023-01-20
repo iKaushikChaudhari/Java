@@ -1,4 +1,4 @@
-package org.mit.engg.sy;
+
 
 public class DefaultVariables {
 	int a;
