@@ -1,4 +1,4 @@
-package com.mit.engg.etc.sy;
+package org.mit.engg.sy;
 
 public class DefaultVariables {
 	int a;
@@ -23,6 +23,10 @@ public class DefaultVariables {
 		System.out.println("double:"+d);
 		System.out.println("long:"+l);
 		System.out.println("string:"+str);
+	}
+	public static void main(String args[]) {
+		DefaultVariables d1=new DefaultVariables();
+		d1.displayData();
 	}
 	
 	
